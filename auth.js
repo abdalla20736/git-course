@@ -5,4 +5,5 @@ function auth(login, password){
 	}else{
 		return "logged is incorrect";
 	}
+	
 }
